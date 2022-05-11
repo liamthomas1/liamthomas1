@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @liamthomas1 (he/him)
 - 👀 I’m interested in during stuff in game progarms  as well accessablity tools to be use in games.
 - 🌱 I’m currently learning computer and game development in plymouth universty
-- 📫 How to reach me: Still not here
+- 📫 How to reach me: LinkedIN
 
 <!---
 liamthomas1/liamthomas1 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
